@@ -1,5 +1,5 @@
 def parrot(phrase = "Squawk!")
-parrot = "Squawk!"
+  parrot = "Squawk!"
   "#{phrase}"
   return "Squawk!"
 end
